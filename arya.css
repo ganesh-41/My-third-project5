@@ -1,0 +1,140 @@
+@media only screen and (max-width: 500px) {
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        font-family: 'Amarante', serif;
+
+    }
+.hedding{
+    font-weight: bold;
+    margin-right: -10px;
+}
+.image{
+ margin-left: 2vw;
+ width: 100%;
+ justify-content: center;
+ align-items: center;
+}
+/* Reset default browser styles for the button */
+.btn-get-started {
+    margin-left: 25px;
+    display: inline-block;
+    width: 90%;
+    padding: 12px 24px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 16px;
+    /* font-weight: bold; */
+    color: #fff;
+    background-color:black;
+    border-radius: 30px;
+    border: 2px solid #3498db;
+    transition: background-color 0.3s ease;
+  }
+  .pera{
+ 
+    font-family: 'Frank Ruhl Libre', serif;
+   font-size: 1.9rem;
+    
+}
+.Forgot{
+float: right;
+margin-right: 30px;
+}
+.mb-3{
+    width: auto;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.Account{
+    font-size: 2.5rem;
+    margin-left: 15px;
+}
+.Welcome{
+    font-size: 1.5rem;
+    margin-left: 15px;
+}
+.arya-1{
+    width: 100%;
+}
+.Sing{
+    margin-top: 30px;
+    width: 90%;
+}
+.Google{
+    background-color:rgb(235, 226, 226);
+    color: black;
+    border: none;
+    width: 90%;
+    margin-top: 20px;
+    
+}
+.Back{
+  margin-left: 30%;
+margin-right: 30px;
+margin-top: 5px;
+font-size: 1.5rem;
+}
+.send{
+    margin-top: 200px;
+}
+.Enter{
+    margin-left: 15px;
+}
+.Code{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.testing{
+    text-align: center;
+    font-size: 1.5rem;
+}
+    /* Example styles for the PIN code box */
+    .pin-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .pin-input {
+        width: 40px;
+        height: 40px;
+        font-size: 24px;
+        text-align: center;
+        margin: 0 5px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+      
+      /* To remove the default input box styling */
+      input[type="text"] {
+        appearance: none;
+        -webkit-appearance: none;
+      }
+      
+      .receive{
+        text-align: center;
+      }
+      .new-password{
+        margin-left: 25px;
+      }
+      .Enter-New{
+        margin-left: 25px;
+        font-size: 2.5rem;
+        font-weight: bold;
+      }
+      .Create-New{
+        margin-left: 15px;
+      }
+      .Welcome-Back{
+        margin-left: 15px;
+      }
+      .Already{
+        text-align: center;
+        margin-top: 10px;
+        font-size: 1.1rem;
+      }
+}
